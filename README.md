@@ -1,4 +1,4 @@
-### Hi there 👋
+<a href="" target="blank"><img align="center" src="https://github.com/evicky2002/evicky2002/blob/main/gitHubCover.png" height="100" /></a>
 
 <!--
 **evicky2002/evicky2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
