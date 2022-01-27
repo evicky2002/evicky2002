@@ -1,4 +1,4 @@
-<a href="" target="blank"><img align="center" src="" width="100%" height="100%" /></a>
+
 
 <!--
 **evicky2002/evicky2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
