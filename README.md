@@ -2,7 +2,7 @@
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://github.com/evicky2002/evicky2002/blob/main/gitHubCover-1.png" height="100%" /></a>
 
 
-![ GitHub stats](https://github-readme-stats.vercel.app/api?username=evicky2002&show_icons=true&theme=github_dark&hide_border)
+![ GitHub stats](https://github-readme-stats.vercel.app/api?username=evicky2002&show_icons=true&theme=github_dark&hide_borde=truer)
 <!--
 **evicky2002/evicky2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
