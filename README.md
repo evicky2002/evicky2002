@@ -11,7 +11,7 @@ Android Developer
 I've been coding for the past two years, with beginner to intermediate level knowledge on android application development.
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [My Portfolio](http://https://evicky2002.github.io/)
+* 🖥️  See my portfolio at [My Portfolio](https://evicky2002.github.io/)
 * ✉️  You can contact me at [evicky2002@gmail.com](mailto:evicky2002@gmail.com)
 * 🧠  I'm learning Data Structures and Algorithms
 * 🤝  I'm open to collaborating on Interesting Projects
