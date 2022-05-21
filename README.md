@@ -2,7 +2,6 @@
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://github.com/evicky2002/evicky2002/blob/main/gitHubCover-1.png" height="100%" /></a>
 ==========================
 
-
 Hi 👋 My name is Vignesh E
 ==========================
 
