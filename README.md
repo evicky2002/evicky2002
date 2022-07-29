@@ -55,7 +55,7 @@ I've been coding for the past two years, with beginner to intermediate level kno
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/evicky2002/Attendance-Tracker" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=evicky2002&repo=Attendance Tracker&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/evicky2002/Attendance-Tracker" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=evicky2002&repo=Attendance-Tracker&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/evicky2002/Calci" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=evicky2002&repo=Calci&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
