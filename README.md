@@ -8,7 +8,7 @@ Hi 👋 My name is Vignesh E
 Android Developer
 -----------------
 
-I've been coding for the past two years, with beginner to intermediate level knowledge on android application development.
+I've been coding for the past two years, with beginner to intermediate level knowledge on Android application development.
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [My Portfolio](https://evicky2002.github.io/)
