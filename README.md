@@ -51,7 +51,7 @@ I've been coding for the past three years, with beginner to intermediate-level k
 
 <a href="http://www.github.com/evicky2002"><img src="https://activity-graph.herokuapp.com/graph?username=evicky2002&bg_color=1c1917&color=ffffff&line=ef4444&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/evicky2002" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evicky2002&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/evicky2002" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evicky2002&langs_count=20&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
